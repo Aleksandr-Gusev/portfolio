@@ -30,7 +30,7 @@ $(document).ready(function(){
     navLink.forEach(n => n.addEventListener('click', linkAction))
     //--------------------------------------------------------------
 
-    
+    //scroll reveral animation
 });
 
  
